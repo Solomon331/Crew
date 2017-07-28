@@ -10,7 +10,7 @@ namespace H2ODatabase.Models
         public int CrewID { get; set; }
 
         public string CrewName { get; set; }
-
+        test
         public List<Student> Students { get; set; }
     }
 }
